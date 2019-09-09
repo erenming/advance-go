@@ -36,6 +36,8 @@ type SliceHeader {
 - 切片类型转换。通常不可，必要时可通过一些技巧转换，列入头信息复制
 ---
 ## 函数、方法和接口
+- Go语言的初始化与执行
+![xx](https://raw.githubusercontent.com/erenming/advance-go/master/images/WX20190909-142049@2x.png)
 - 具名函数一般对应于包级的函数，是匿名函数的特列
 - 当匿名函数引用了外部作用域中的变量时则成为了闭包函数
 - 方法是绑定到一个具体类型的特殊函数
